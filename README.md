@@ -5,7 +5,7 @@
 
 Streamify is a sleek,  front-end clone of Netflix designed purely with HTML, CSS. It demonstrates modern web design principles, and animation effects to create a visually immersive streaming platform interface.
 
-![Streamify Banner](assets/images/main-bg.jpg)
+![Streamify Banner](assets/images/streamifyss.jpg)
 
 ---
 
